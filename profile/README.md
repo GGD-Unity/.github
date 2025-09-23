@@ -14,10 +14,10 @@ This renewal project reimagines the Overcooked! 2 universe through the playful l
 | **Platform**           | PC                                                                        |
 | **Play Type**          | Single Player                                                             |
 | **Camera View**        | Quarter View                                                              |
-| **Map Count**          | 2 Maps (Tutorial Map, Collaboration Map)                                  |
+| **Map Count**          | - Maps ()                                 |
 | **Graphics Style**     | 3D Graphics                                                               |
 | **Game Engine**        | Unity                                                                     |
-| **Graphics Tools**     | Unreal Engine, Blender, ZBrush                                            |
+| **Graphics Tools**     | Blender, ZBrush                                            |
 
 ---
 
