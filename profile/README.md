@@ -1,4 +1,4 @@
-# 🎮 Fall Guys x Overcooked! 2 —\nCollaboration Game Overview
+# 🎮 Fall Guys x Overcooked! 2 — Collaboration Game Overview
 
 A vibrant fusion of chaotic obstacle racing and cooperative cooking!  
 This renewal project reimagines the Overcooked! 2 universe through the playful lens of Fall Guys, delivering a fresh single-player experience with quirky maps and dynamic gameplay.
