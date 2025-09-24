@@ -32,7 +32,7 @@ This renewal project reimagines the Overcooked! 2 universe through the playful l
 
 - 🎨 Visuals: Stylized 3D assets blending Fall Guys’ whimsy with Overcooked’s charm  
 - 🗺 Map Design: One tutorial level + one full collaboration stage  
-- 🧪 Engine: Unity for gameplay, Unreal/Blender/ZBrush for asset creation  
+- 🧪 Engine: Unity for gameplay, Blender/ZBrush for asset creation  
 - 🕹 Focus: Solo experience with layered mechanics inspired by both franchises
 
 ---
